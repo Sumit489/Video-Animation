@@ -23,17 +23,32 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 80px;
-  color: white;
+  font-size: 50px;
+  color: chocolate;
 }
 
 section {
   height: 100vh;
   color: black;
+  background-color: black;
 }
 
-section h1 {
-  padding-top: 300px;
+section h3 {
+  padding-top: 100px;
   text-align: center;
-  font-size: 80px;
+  font-size: 50px;
+  color: bisque;
+}
+
+section li{
+  text-align: center;
+  padding-top: 20px;
+  color: blanchedalmond;
+  font-size: 40px;
+}
+
+section h5{
+  padding-top: 200px;
+  color: snow;
+  text-align: center;
 }
